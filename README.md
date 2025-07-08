@@ -14,10 +14,11 @@ A clean and modern sidebar layout designed for photographers and creatives using
 - CSS3
 
 ## 📁 Project Structure
-
+```
 photographer-sidebar-ui/
 ├── index.html
 └── style.css
+```
 
 ## 📌 Use Cases
 
